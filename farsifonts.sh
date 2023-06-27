@@ -36,7 +36,6 @@ fi
 
 detect $DOWNLOADER
 detect unzip
-detect sudo
 
 echo "Using $DOWNLOADER as downloader"
 cd ~
